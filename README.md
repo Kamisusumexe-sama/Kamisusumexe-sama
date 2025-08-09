@@ -1,12 +1,11 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/104126485?s=400&u=992f03c608174f379aa2bc0889c21305b2f5e349&v=4"  />
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTloeWxydDVwazgyNXV5OXlycHV1ZThuOTR0ZjVmNTU1cjI4d25qMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uMcGkYdjKKCZbgRYsj/giphy.gif"  />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vanessa-asafo-adjei/" target="_blank">
-    ![Alt Text](./ProfilePic.gif)
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://discord.gg/kDzejed4" target="_blank">
