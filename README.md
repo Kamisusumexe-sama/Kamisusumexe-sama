@@ -32,6 +32,10 @@
 
 ###
 
+<p align="left">[Download My Resume]:<br>(https://docs.google.com/document/d/1Vb4er9Y9ngEejk7Sq2RxIa02Ji-j7o1W/edit?usp=sharing&ouid=115725678281031506384&rtpof=true&sd=true)</p>
+
+###
+
 <p align="left">- 🔭 I’m working as a game dev at LetiArts<br>- 📚 I'm currently learning C# and Unity as well as React Native<br>- ⚡ In my free time I draw and write.<br>- Here is my profile on wattpad if you'ld like to check them out!<br>   https://www.wattpad.com/user/Vansbhae</p>
 
 ###
