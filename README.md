@@ -29,7 +29,17 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
+<p>
+  Vanessa Asafo-Adjei
+🎮 Game Developer | 🌍 Storyteller | ✨ Creative Technologist
 
+A developer passionate about blending art, code, and African storytelling to craft immersive games and digital experiences. With expertise in game, web, and app development, I bridge technology and culture to inspire new narratives.
+
+🔹 Building: Games & apps rooted in African heritage
+🔹 Mentoring: Aspiring developers & supporting Ghana’s creative revival
+🔹 Inspired by: Zelda (LOZ) 🗡️ & Studio Ghibli 🏰✨
+
+Let’s connect and create magic!</p>
 ###
 
 <p align="left">[Download My Resume]:<br>(https://docs.google.com/document/d/1Vb4er9Y9ngEejk7Sq2RxIa02Ji-j7o1W/edit?usp=sharing&ouid=115725678281031506384&rtpof=true&sd=true)</p>
