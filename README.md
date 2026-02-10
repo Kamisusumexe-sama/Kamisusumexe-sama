@@ -46,7 +46,7 @@ Let’s connect and create magic!</p>
 
 ###
 
-<p align="left">- 🔭 I’m working as a game dev at LetiArts<br>- 📚 I'm currently learning C# and Unity as well as React Native<br>- ⚡ In my free time I draw and write.<br>- Here is my profile on wattpad if you'ld like to check them out!<br>   https://www.wattpad.com/user/Vansbhae</p>
+<p align="left">- 🔭 I’m working as a game dev<br>- 📚 I'm currently learning C# and Unity as well as React Native<br>- ⚡ In my free time I draw and write.<br>- Here is my profile on wattpad if you'ld like to check them out!<br>   https://www.wattpad.com/user/Vansbhae</p>
 
 ###
 
